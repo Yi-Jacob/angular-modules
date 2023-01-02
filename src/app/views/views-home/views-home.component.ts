@@ -13,8 +13,8 @@ export class ViewsHomeComponent implements OnInit {
   ];
 
   items = [
-    {image: '/src/assets/images/couch.jpeg', title: 'Couch', description: 'couacheroo'},
-    {image: '/assests/images/dresser.jpeg', title: 'Dresser', description: 'dresserski'},
+    {image: '/assets/images/couch.jpeg', title: 'Couch', description: 'couacheroo'},
+    {image: '/assets/images/dresser.jpeg', title: 'Dresser', description: 'dresserski'},
   ]
 
   constructor() {}
