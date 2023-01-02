@@ -8,9 +8,7 @@ import { Component, OnInit, Input } from '@angular/core';
 export class ItemListComponent implements OnInit {
   @Input() items = [];
 
-  constructor() { }
+  constructor() {}
 
-  ngOnInit() {
-  }
-
+  ngOnInit() {}
 }
